@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 8900000, guid: db99270ca3033fc4c9667994096407ef, type: 3}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44842237, g: 0.49845785, b: 0.5756276, a: 1}
+  m_IndirectSpecularColor: {r: 0.44842178, g: 0.49845725, b: 0.5756265, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -182,6 +182,14 @@ PrefabInstance:
     - target: {fileID: 1419405889351133927, guid: c4adfcb664498be438fcf8d4aab2ef3b, type: 3}
       propertyPath: m_Url
       value: https://www.youtube.com/watch?v=pq4YmDX9Ntg
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128215666670637358, guid: c4adfcb664498be438fcf8d4aab2ef3b, type: 3}
+      propertyPath: m_text
+      value: "wefwefwef\u200B"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4030204896584130627, guid: c4adfcb664498be438fcf8d4aab2ef3b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4938787962849186955, guid: c4adfcb664498be438fcf8d4aab2ef3b, type: 3}
       propertyPath: m_RootOrder
